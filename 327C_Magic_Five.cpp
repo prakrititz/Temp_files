@@ -1,7 +1,7 @@
-    #include <bits/stdc++.h>
-    using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-    const long long MOD = 1e9+7;
+const long long MOD = 1e9+7;
 
 long long mod_pow(long long base, long long exp, long long mod) {
     long long result = 1;
