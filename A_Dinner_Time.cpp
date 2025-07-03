@@ -1,16 +1,21 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 void solve()
 {
-    int a, b;
-    cin >> a >> b;
-    int ans = INT_MAX;
-    for (int i = 1; i <= 100000; i++)
+    int n, m, p, q;
+    cin >> n >> m >> p >> q;
+
+    if (n % p == 0 && m != q * (n / p))
     {
-        ans = min(ans, i + 1 + (a - 1) / i + (b - 1) / i);
+        cout << "NO" << endl;
+        ;
     }
-    cout << ans << endl;
+    else
+    {
+        cout << "YES" << endl;
+    }
 }
 
 int main()

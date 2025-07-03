@@ -3,14 +3,14 @@ using namespace std;
 
 void solve()
 {
-    int a, b;
-    cin >> a >> b;
-    int ans = INT_MAX;
-    for (int i = 1; i <= 100000; i++)
-    {
-        ans = min(ans, i + 1 + (a - 1) / i + (b - 1) / i);
-    }
-    cout << ans << endl;
+    int n, k;
+    cin >> n >> k;
+
+    for (int i = 1; i <= n - k; i++)
+        cout << 0;
+    for (int i = 1; i <= k; i++)
+        cout << 1;
+    cout << endl;
 }
 
 int main()
