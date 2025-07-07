@@ -60,7 +60,7 @@ void solve()
     {
         vector<int> temp;
         for (int i = 1; i < it.second.size(); i++)
-            temp.push_back(it.second[i]);
+            temp.push_back(it.second[i]);   
         temp.push_back(it.second[0]);
         for (int i = 0; i < temp.size(); i++)
         {
