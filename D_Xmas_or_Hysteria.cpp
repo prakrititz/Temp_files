@@ -9,36 +9,41 @@ void solve() {
     vector<pair<int,int>> a(n);
     for (int i = 0; i < n; i++) {
         cin >> a[i].first;
-        a[i].second = i + 1; 
+        a[i].second = i + 1;
     }
 
     sort(a.begin(), a.end());
     vector<pair<int,int>> ans;
 
-    if(m>=2 )
-    {
+    if (m >= 2) {
         if (n < 2 * m) {
             cout << -1 << endl;
             return;
         }
 
         int K = n - 2 * m;
+
         for (int i = 0; i < m; i++) {
             int l = i * K / m;
             int r = (i + 1) * K / m;
-            for (int j = l; j + 1 < r; j++) {
-                ans.push_back({a[j].second, a[j+1].second});
+
+            if (r - l >= 2) {
+                for (int j = l; j < r - 1; j++) {
+                    ans.push_back({a[j].second, a[j+1].second});
+                }
             }
-            if (l < r) {
-                ans.push_back({a[r-1].second, a[K+i].second});
+
+            if (r - l >= 1) {
+                ans.push_back({a[r-1].second, a[K + i].second});
             }
         }
+
         for (int i = 0; i < m; i++) {
-            ans.push_back({a[K+m+i].second, a[K+i].second});
+            ans.push_back({a[K + m + i].second, a[K + i].second});
         }
     }
 
-    else if(m==0) {
+    else if (m == 0) {
         if (n == 2) {
             cout << -1 << endl;
             return;
@@ -46,33 +51,35 @@ void solve() {
 
         int largest = a[n-1].first;
         int largestId = a[n-1].second;
-        int last = a[n-2].first;
-        int lastId = a[n-2].second;
+        int second = a[n-2].first;
+        int secondId = a[n-2].second;
 
-        int damage = 0;
-        for (int i = 0; i < n-1; i++) damage += a[i].first;
+        int sum = 0;
+        for (int i = 0; i < n-1; i++) sum += a[i].first;
 
-        if (damage < largest) {
+        if (sum < largest) {
             cout << -1 << endl;
             return;
         }
 
-        int need = largest - last;
+        int need = largest - second;
         int cur = 0;
-        int p = 0;
-        while (p <= n-3 && cur < need) {
-            ans.push_back({a[p].second, largestId});
-            cur += a[p].first;
-            p++;
+        int i = 0;
+
+        while (i <= n-3 && cur < need) {
+            ans.push_back({a[i].second, largestId});
+            cur += a[i].first;
+            i++;
+        }
+        int next = i;
+        if (next <= n-3) {
+            for (int i = next; i < n-3; i++) {
+                ans.push_back({a[i].second, a[i+1].second});
+            }
+            ans.push_back({a[n-3].second, secondId});
         }
 
-        for (int i = p; i < n-3; i++) {
-            ans.push_back({a[i].second, a[i+1].second});
-        }
-
-        if (n >= 3)
-            ans.push_back({a[n-3].second, lastId});
-        ans.push_back({lastId, largestId});
+        ans.push_back({secondId, largestId});
     }
     else if (m == 1) {
         for (int i = 0; i < n-1; i++) {
@@ -81,7 +88,7 @@ void solve() {
     }
 
     cout << ans.size() << endl;
-    for (auto &p : ans) {
+    for (auto p : ans) {
         cout << p.first << " " << p.second << endl;
     }
 }
