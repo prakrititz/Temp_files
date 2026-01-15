@@ -1,71 +1,62 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-
-void merge(vector<int>&a, vector<int>&temp, int l, int r)
+#define int long long 
+void merge(vector<int>&a,int l1, int r1, int l2, int r2, int n)
 {
+    int i = l1;
+    int j = l2;
+    vector<int>temp;
+    while(i<=r1 && j<=r2)
+    {
+        if(a[i]>a[j]){
+            temp.push_back(a[j]);
+            j++;
+        }
+        else {
+            temp.push_back(a[i]);
+            i++;
+        }
+    }
+    while(i<=r1)
+    {
+        temp.push_back(a[i]);
+        i++;
+    }
+    while(j<=r2)
+    {
+        temp.push_back(a[j]);
+        j++;
+    }
+    for(int i = l1;i<=r2;i++)a[i] = temp[i-l1];
+}
+void merge_sort(vector<int>&a, int l, int r, int n)
+{
+    if(l<0)return;
+    if(r>n-1)return;
     if(l>=r)return;
     int mid = (l+r)/2;
-    int i1 = l;
-    int i2 = mid+1;
-    int j = l;
-    while(i1<=mid && i2<=r)
-    {
-        if(a[i1]>a[i2])
-        {
-            temp[j]=(a[i2]);
-            i2++;
-        }
-        else{
-            temp[j]=(a[i1]);
-            i1++;
-        }
-        j++;
-    }
-    while(i1<=mid)
-    {
-        temp[j]=(a[i1]);
-        i1++;
-        j++;
-    }
-    while(i2<=r)
-    {
-        temp[j]=(a[i2]);
-        i2++;
-        j++;
-    }
+    merge_sort(a, l, mid, n);
+    merge_sort(a, mid+1, r, n);
+    merge(a, l, mid, mid+1, r, n);
 }
-
-void mergesort(vector<int>&a, int l , int r, vector<int>&temp)
-{
-    if(l>=r)return;
-    int mid = (l+r)/2;
-    mergesort(a, l, mid, temp);
-    mergesort(a, mid+1, r, temp);
-    merge(a,temp, l, r);
-    for (int i = l; i <= r; ++i) a[i] = temp[i];
-}
-
-void solve() {
-    int n;
-    cin>>n;
+void solve()
+{  
+    int n;cin>>n;
     vector<int>a(n);
-    vector<int>temp(n);
-    for(int i = 0;i<n ;i ++)cin>>a[i];
-    mergesort(a, 0, n-1, temp);
-    for(int i = 0;i<n ;i++)cout<<a[i]<<" ";
+    for(int i = 0;i<n;i++)cin>>a[i]; 
+    merge_sort(a, 0, n-1, n);
+    for(auto it:a)cout<<it<<" ";
     cout<<endl;
 }
-
-int main() {
+int32_t main()
+{
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-
-    int t;
-    cin >> t;
-
-    while (t--) {
+    int tc = 1;
+    cin>>tc;
+    while(tc--)
+    {
         solve();
     }
-
     return 0;
 }

@@ -90,7 +90,25 @@ int pow_sol_b(int x, string n, int m)
     }
 }
 
-
+string temp(string &n){
+        string res = "";
+        int rem = 0;
+        for(int i = 0;i<n.size();i++)
+        {
+            int digit = n[i]-'0';//this is the digit;
+            int val = rem*10+digit;
+            int quotient = val/2;
+            rem = val%2;
+            // initally we add only when result is empty and quotient is not zero 
+            if(res=="" && quotient==0){
+                continue;
+            }
+            res += quotient+'0';
+        }
+        if(res=="")res = "0";
+        n = res;// modify the n
+        return res;// return the remainder 
+}
 //c. n < 10^1e5, given in decimal.
 // this big number has to be given in string as input
 int pow_sol_c(int x, string &n, int m)
@@ -116,6 +134,8 @@ int pow_sol_c(int x, string &n, int m)
         n = res;// modify the n
         return rem;// return the remainder 
     };
+    string hb = "11435";
+    cout<<temp(hb)<<endl;
     int ans = 1;
     while(n!="0")
     {
