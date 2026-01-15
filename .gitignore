@@ -1,3 +1,4 @@
+.**/
 .cph/
 .vscode/
 .replit
@@ -16,3 +17,5 @@ codeforces/input.txt
 codeforces/k
 codeforces/p[i]
 codeforces/tc
+leetcode/.cph/
+TA_Assignments/Lab12Jan/.cph/
