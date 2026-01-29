@@ -19,7 +19,6 @@ void solve() {
     }
     int c1 = 1;
     int c2 = 2;
-
     for (int c3 = 3; c3 <= n; ++c3) {
         int g1 = ask(c1, c2);
         int g2 = ask(c2, c3);
