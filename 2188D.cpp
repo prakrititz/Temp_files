@@ -4,7 +4,7 @@ using namespace std;
 int find(int a, int b)
 {
     int inv = ~a;
-    vector<int>ans;
+    vector<int>ans={0};
     int cur = 0;
     for(int i = 60;i>=0;i--)
     {
@@ -22,9 +22,10 @@ int find(int a, int b)
                  ans.push_back(cur|(inv&((1LL<< i) - 1)));//put it one and remaing
                  cur |= (1LL << i);
             }
-        }   
+        }
+        if (i == 0) ans.push_back(cur);   
     }
-    int diff = b;
+    int diff = LONG_LONG_MAX;
     int mini = 0;
     for(auto d:ans)
     {
