@@ -2,12 +2,11 @@
 using namespace std;
 #define int long long 
 void solve()
-{   
+{
     int n;
     cin>>n;
-    vector<int>a(n);
-    for(int i = 0;i<n;i++)cin>>a[i];
-    
+    if(n%60)cout<<"YES"<<endl;
+    else cout<<"NO"<<endl;   
 }
 int32_t main()
 {
