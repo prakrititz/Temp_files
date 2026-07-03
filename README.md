@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/prakrititz/Temp_files/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
