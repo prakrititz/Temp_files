@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
