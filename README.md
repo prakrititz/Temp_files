@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
+| [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/prakrititz/Temp_files/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2603-collect-coins-in-a-tree](https://github.com/prakrititz/Temp_files/tree/master/2603-collect-coins-in-a-tree) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
