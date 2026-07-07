@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakrititz/Temp_files/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
