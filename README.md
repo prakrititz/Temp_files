@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/prakrititz/Temp_files/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Stack
