@@ -3,7 +3,6 @@ class Solution {
     int timer = 0; 
     vector<vector<int>>ans;
     void dfs(int curr, vector<vector<int>>& adj, vector<int>& vis, vector<int>& tin, vector<int>&low, vector<int>&parent) {
-        vis[curr] = 1;
         tin[curr] = timer++;
         low[curr] = tin[curr];
         for(auto it:adj[curr])
