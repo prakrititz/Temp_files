@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/prakrititz/Temp_files/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/prakrititz/Temp_files/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakrititz/Temp_files/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/prakrititz/Temp_files/tree/master/1192-critical-connections-in-a-network) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
