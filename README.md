@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
+| [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 <!---LeetCode Topics End-->
