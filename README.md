@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
+| [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakrititz/Temp_files/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0437-path-sum-iii](https://github.com/prakrititz/Temp_files/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
