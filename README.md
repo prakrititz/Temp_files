@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/prakrititz/Temp_files/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
