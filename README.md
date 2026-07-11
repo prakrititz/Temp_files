@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/prakrititz/Temp_files/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/prakrititz/Temp_files/tree/master/0686-repeated-string-match) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
