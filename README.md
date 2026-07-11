@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
+| [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
