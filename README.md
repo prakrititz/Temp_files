@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prakrititz/Temp_files/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/prakrititz/Temp_files/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/prakrititz/Temp_files/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
