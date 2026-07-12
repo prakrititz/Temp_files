@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0540-single-element-in-a-sorted-array) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/prakrititz/Temp_files/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0285-inorder-successor-in-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0540-single-element-in-a-sorted-array) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/prakrititz/Temp_files/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
