@@ -9,20 +9,21 @@ public:
         {
             for(int j = 1;j<=n;j++)
             {
-                int x = (a[i-1][j-1]=='1') ? 1:0;
-                dp[i][j] = dp[i-1][j] + dp[i][j-1] - dp[i-1][j-1]+x;
+                if(a[i-1][j-1]=='1')
+                {
+                    dp[i][j] = min({dp[i-1][j], dp[i][j-1], dp[i-1][j-1]})+1;
+                }
+                else{
+                    dp[i][j] = 0;
+                }
+                ans = max(ans, dp[i][j]*dp[i][j]);
             }
         }
-        for(int i = 1;i<=m;i++)
+        for(auto it:dp)
         {
-            for(int j = 1;j<=n;j++)
-            {
-                for(int l = 1;l<= min(i, j);l++)
-                {
-                    if(l*l==dp[i][j]-dp[i-l][j]-dp[i][j-l] + dp[i-l][j-l])ans = max(ans, l*l);
-                }
-            }
-        } 
+            for(auto x:it)cout<<x<<" ";
+            cout<<endl;
+        }
         return ans;
     }
 };
