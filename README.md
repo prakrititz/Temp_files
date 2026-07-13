@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prakrititz/Temp_files/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prakrititz/Temp_files/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0221-maximal-square](https://github.com/prakrititz/Temp_files/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/prakrititz/Temp_files/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/prakrititz/Temp_files/tree/master/0416-partition-equal-subset-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prakrititz/Temp_files/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/prakrititz/Temp_files/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/prakrititz/Temp_files/tree/master/0260-single-number-iii) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
+| [0221-maximal-square](https://github.com/prakrititz/Temp_files/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
