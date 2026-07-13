@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/prakrititz/Temp_files/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
+| [0132-palindrome-partitioning-ii](https://github.com/prakrititz/Temp_files/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
 | [0686-repeated-string-match](https://github.com/prakrititz/Temp_files/tree/master/0686-repeated-string-match) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prakrititz/Temp_files/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prakrititz/Temp_files/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/prakrititz/Temp_files/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/prakrititz/Temp_files/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/prakrititz/Temp_files/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
