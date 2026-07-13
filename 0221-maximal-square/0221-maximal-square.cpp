@@ -19,11 +19,6 @@ public:
                 ans = max(ans, dp[i][j]*dp[i][j]);
             }
         }
-        for(auto it:dp)
-        {
-            for(auto x:it)cout<<x<<" ";
-            cout<<endl;
-        }
         return ans;
     }
 };
