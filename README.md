@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prakrititz/Temp_files/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prakrititz/Temp_files/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/prakrititz/Temp_files/tree/master/0416-partition-equal-subset-sum) |
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/prakrititz/Temp_files/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0540-single-element-in-a-sorted-array) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/prakrititz/Temp_files/tree/master/0774-minimize-max-distance-to-gas-station) |
