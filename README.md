@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/prakrititz/Temp_files/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/prakrititz/Temp_files/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakrititz/Temp_files/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/prakrititz/Temp_files/tree/master/0518-coin-change-ii) |
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
+| [1143-longest-common-subsequence](https://github.com/prakrititz/Temp_files/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
