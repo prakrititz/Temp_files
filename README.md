@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakrititz/Temp_files/tree/master/0023-merge-k-sorted-lists) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -312,14 +313,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prakrititz/Temp_files/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/prakrititz/Temp_files/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakrititz/Temp_files/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prakrititz/Temp_files/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
