@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
+| [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1192-critical-connections-in-a-network](https://github.com/prakrititz/Temp_files/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/prakrititz/Temp_files/tree/master/2603-collect-coins-in-a-tree) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
+| [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prakrititz/Temp_files/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prakrititz/Temp_files/tree/master/0494-target-sum) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 <!---LeetCode Topics End-->
