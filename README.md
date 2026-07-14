@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prakrititz/Temp_files/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prakrititz/Temp_files/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
