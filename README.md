@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prakrititz/Temp_files/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/prakrititz/Temp_files/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakrititz/Temp_files/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prakrititz/Temp_files/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prakrititz/Temp_files/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prakrititz/Temp_files/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/prakrititz/Temp_files/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/prakrititz/Temp_files/tree/master/0283-move-zeroes) |
