@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/prakrititz/Temp_files/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/prakrititz/Temp_files/tree/master/2603-collect-coins-in-a-tree) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/prakrititz/Temp_files/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prakrititz/Temp_files/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakrititz/Temp_files/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakrititz/Temp_files/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakrititz/Temp_files/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakrititz/Temp_files/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakrititz/Temp_files/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakrititz/Temp_files/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
