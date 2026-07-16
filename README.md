@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prakrititz/Temp_files/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakrititz/Temp_files/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakrititz/Temp_files/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakrititz/Temp_files/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/prakrititz/Temp_files/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/prakrititz/Temp_files/tree/master/1250-check-if-it-is-a-good-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/prakrititz/Temp_files/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakrititz/Temp_files/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
