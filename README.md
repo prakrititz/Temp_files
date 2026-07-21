@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/prakrititz/Temp_files/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/prakrititz/Temp_files/tree/master/0208-implement-trie-prefix-tree) |
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
+| [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [0686-repeated-string-match](https://github.com/prakrititz/Temp_files/tree/master/0686-repeated-string-match) |
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -256,12 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prakrititz/Temp_files/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -387,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
