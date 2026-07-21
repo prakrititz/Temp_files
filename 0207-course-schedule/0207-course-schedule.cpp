@@ -1,37 +1,42 @@
 class Solution {
 public:
-    bool check = true;
-    void dfs(int curr, vector<int>&d, vector<vector<int>>&adj, int parent)
-    {
-        d[curr] = 1;
-        bool res = true;
-        for(auto it:adj[curr])
+    vector<int> topoSort(int V, vector<vector<int>>& edges) {
+        vector<vector<int>>adj(V);
+        vector<int>indeg(V, 0);
+        for(auto it: edges)
         {
-            if(d[it]==1)check =  false;
-            if(d[it]==0)
+            int u = it[0];
+            int v = it[1];
+            adj[u].push_back(v);
+            indeg[v]++;
+        }
+        queue<int>q;
+        for(int i = 0;i<V;i++)
+        {
+            if(indeg[i]==0)q.push(i);
+        }
+        vector<int>ans;
+        while(!q.empty())
+        {
+            int u = q.front();
+            q.pop();
+            ans.push_back(u);
+            for(auto it:adj[u])
             {
-                dfs(it, d, adj, curr);
+                indeg[it]--;
+                if(indeg[it]==0)
+                {
+                    q.push(it);
+                }
             }
         }
-        d[curr] = 2;
+        return ans;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
        vector<vector<int>>adj(numCourses);
        int n = numCourses;
-       for(auto it: prerequisites)
-       {
-            int u = it[0];
-            int v = it[1];
-            adj[u].push_back(v);
-       }
-       vector<int>d(n, 0);
-       for(int i = 0;i<n;i++)
-       {
-            if(d[i]==0)
-            {
-                dfs(i, d, adj, -1);            
-            }
-       }
-       return check;
+       vector<int>ans = topoSort(n, prerequisites);
+       if(ans.size()!=n)return false;
+       return true;
     }
 };
