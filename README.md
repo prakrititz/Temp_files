@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/prakrititz/Temp_files/tree/master/1143-longest-common-subsequence) |
+| [1392-longest-happy-prefix](https://github.com/prakrititz/Temp_files/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/prakrititz/Temp_files/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakrititz/Temp_files/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/prakrititz/Temp_files/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/prakrititz/Temp_files/tree/master/1392-longest-happy-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -428,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakrititz/Temp_files/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/prakrititz/Temp_files/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
