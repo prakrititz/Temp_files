@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1192-critical-connections-in-a-network](https://github.com/prakrititz/Temp_files/tree/master/1192-critical-connections-in-a-network) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/prakrititz/Temp_files/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/prakrititz/Temp_files/tree/master/2685-count-the-number-of-complete-components) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prakrititz/Temp_files/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/prakrititz/Temp_files/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prakrititz/Temp_files/tree/master/0146-lru-cache) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
