@@ -13,8 +13,8 @@ class Solution {
             if(it==parent)continue;
             if(!vis[it]) {
                 dfs(it, adj, vis, t, dp, curr);
-                if(dp[it]>t[curr]) ans.push_back({it, curr});
             }
+                if(dp[it]>t[curr]) ans.push_back({it, curr});
             dp[curr] = min(dp[curr], dp[it]);
         }
     }
