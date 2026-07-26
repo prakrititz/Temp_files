@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/prakrititz/Temp_files/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/prakrititz/Temp_files/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prakrititz/Temp_files/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/prakrititz/Temp_files/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prakrititz/Temp_files/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/prakrititz/Temp_files/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prakrititz/Temp_files/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/prakrititz/Temp_files/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prakrititz/Temp_files/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/prakrititz/Temp_files/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prakrititz/Temp_files/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0684-redundant-connection](https://github.com/prakrititz/Temp_files/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prakrititz/Temp_files/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
