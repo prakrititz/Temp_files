@@ -2,31 +2,26 @@ class Solution {
     public:
     int timer = 0; 
     vector<vector<int>>ans;
-    void dfs(int curr, vector<vector<int>>& adj, vector<int>& vis, vector<int>& tin, vector<int>&low, vector<int>&parent) {
-        tin[curr] = timer++;
-        low[curr] = tin[curr];
+    void dfs(int curr, vector<vector<int>>&adj, vector<int>&vis, vector<int>&t, vector<int>&dp, int parent)
+    {
+        vis[curr] = 1;
+        t[curr] = timer;
+        timer++;
+        dp[curr] = t[curr];
         for(auto it:adj[curr])
         {
-            if(it == parent[curr])continue;
-            if(!vis[it])
-            {
-                parent[it] = curr;
-                vis[it] = 1;
-                dfs(it, adj, vis, tin, low, parent);
-                if(low[it]>tin[curr])
-                {
-                    ans.push_back({it, curr});
-                }
+            if(it==parent)continue;
+            if(!vis[it]) {
+                dfs(it, adj, vis, t, dp, curr);
+                if(dp[it]>t[curr]) ans.push_back({it, curr});
             }
-            low[curr] = min(low[curr], low[it]);
+            dp[curr] = min(dp[curr], dp[it]);
         }
     }
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
       vector<int>vis(n,0);
       vector<int>tin(n, 0);
-      vector<int>dp(n, INT_MAX); // lowest tin of surrounding
-      vector<int>parent(n, 0);
-      parent[0]= -1;
+      vector<int>dp(n, INT_MAX); 
       vector<vector<int>>adj(n);
       for(auto it:connections)
       {
@@ -36,7 +31,7 @@ class Solution {
         adj[v].push_back(u);
       }
       vis[0]= 1;
-      dfs(0,adj,vis, tin, dp, parent);
+      dfs(0,adj,vis, tin, dp, -1);
       return ans;
     }
 };
