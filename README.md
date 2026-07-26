@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [0305-number-of-islands-ii](https://github.com/prakrititz/Temp_files/tree/master/0305-number-of-islands-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/prakrititz/Temp_files/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [0686-repeated-string-match](https://github.com/prakrititz/Temp_files/tree/master/0686-repeated-string-match) |
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/prakrititz/Temp_files/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/prakrititz/Temp_files/tree/master/0518-coin-change-ii) |
 | [0727-minimum-window-subsequence](https://github.com/prakrititz/Temp_files/tree/master/0727-minimum-window-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/prakrititz/Temp_files/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/prakrititz/Temp_files/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/prakrititz/Temp_files/tree/master/1301-number-of-paths-with-max-score) |
