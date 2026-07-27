@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prakrititz/Temp_files/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/prakrititz/Temp_files/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/prakrititz/Temp_files/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/prakrititz/Temp_files/tree/master/0168-excel-sheet-column-title) |
