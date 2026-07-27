@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/prakrititz/Temp_files/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/prakrititz/Temp_files/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/prakrititz/Temp_files/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/prakrititz/Temp_files/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/prakrititz/Temp_files/tree/master/0968-binary-tree-cameras) |
 | [1192-critical-connections-in-a-network](https://github.com/prakrititz/Temp_files/tree/master/1192-critical-connections-in-a-network) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/prakrititz/Temp_files/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0851-loud-and-rich](https://github.com/prakrititz/Temp_files/tree/master/0851-loud-and-rich) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/prakrititz/Temp_files/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1192-critical-connections-in-a-network](https://github.com/prakrititz/Temp_files/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/prakrititz/Temp_files/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/prakrititz/Temp_files/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1135-connecting-cities-with-minimum-cost](https://github.com/prakrititz/Temp_files/tree/master/1135-connecting-cities-with-minimum-cost) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/prakrititz/Temp_files/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
