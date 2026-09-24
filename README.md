@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prakrititz/Temp_files/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/prakrititz/Temp_files/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prakrititz/Temp_files/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakrititz/Temp_files/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prakrititz/Temp_files/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/prakrititz/Temp_files/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/prakrititz/Temp_files/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prakrititz/Temp_files/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prakrititz/Temp_files/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prakrititz/Temp_files/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prakrititz/Temp_files/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
