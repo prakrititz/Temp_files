@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/prakrititz/Temp_files/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/prakrititz/Temp_files/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/prakrititz/Temp_files/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/prakrititz/Temp_files/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prakrititz/Temp_files/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/prakrititz/Temp_files/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakrititz/Temp_files/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/prakrititz/Temp_files/tree/master/0839-similar-string-groups) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/prakrititz/Temp_files/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prakrititz/Temp_files/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prakrititz/Temp_files/tree/master/2685-count-the-number-of-complete-components) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/prakrititz/Temp_files/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prakrititz/Temp_files/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prakrititz/Temp_files/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/prakrititz/Temp_files/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/prakrititz/Temp_files/tree/master/0295-find-median-from-data-stream) |
 | [0846-hand-of-straights](https://github.com/prakrititz/Temp_files/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/prakrititz/Temp_files/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/prakrititz/Temp_files/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prakrititz/Temp_files/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prakrititz/Temp_files/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/prakrititz/Temp_files/tree/master/1096-brace-expansion-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
